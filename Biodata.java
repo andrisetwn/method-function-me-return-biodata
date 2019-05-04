@@ -6,7 +6,7 @@ C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, S
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-public class Main
+public class Biodata
 {
     // objek highschool and univesity
     String x = "SMKN 4 Jakarta";
@@ -33,10 +33,10 @@ public class Main
 
 	    System.out.println(name + " Andri Setiawan");
 	    System.out.println(address + " JL. Pulo Gebang RT12/04 No.145, Kel.Pulo Gebang Kec.Cakung, Jakarta Timur");
-       	System.out.println("Hobbies : "+hobi[0]+hobi[1]);
-        System.out.println("Married : "+tidak+" (Belum Menikah)");
-        System.out.println("High School : "+highschool.x);
-        System.out.println("College : "+univesity.y);
+      	    System.out.println("Hobbies : "+hobi[0]+hobi[1]);
+            System.out.println("Married : "+tidak+" (Belum Menikah)");
+            System.out.println("High School : "+highschool.x);
+            System.out.println("College : "+univesity.y);
         
         //Array of obj
 	    String[] nama = {"Auto Cad ", "Microsoft Office ", "Desain Grafis ", "Mengerti dasar Java & PHP "};
